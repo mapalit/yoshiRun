@@ -1,6 +1,6 @@
 :root {
     --jump-height: -40vh;
-    --jump-time: 0.7s;
+    --jump-time: 0.5s;
 }
 
 @font-face {
