@@ -1,4 +1,4 @@
-const cacheName = "yoshiRun-v1.1";
+const cacheName = "yoshiRun-v1.2";
 const contentToCache = [
     "style.css",
 ]
